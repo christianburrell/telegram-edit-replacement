@@ -1,0 +1,25 @@
+{
+ "files": {
+  "gateway/platforms/base.py": "96d2f0f680e796232b6d70353c475cf6a0a81b6ebf8ba36de18ad8cb91525fce",
+  "gateway/platforms/event.py": "cfa64900cc6161afd69fae124228c49bfb835c2318e57a05ddca926f91ab980a",
+  "gateway/run.py": "5ae263b65d6c02226d079bf7be822b953150aa6a4bdce91745cc67da3e687316",
+  "gateway/run_adapters.py": "f4079eb3be2063cab5699583f68e62fdf3460c88b4092f8e5a11a8f7b6857ff7",
+  "gateway/run_busy.py": "a6247d2862216543ff1a2bcb2a97a0f51c40fa02604849e0c1f50f8546f64e59",
+  "gateway/run_inbound.py": "f399c90076668e8745e19b640fdcd9a467bd07cc1217a33b38aca00cd38191c1",
+  "gateway/run_plugin_rewire.py": "20ef71f0f90a997094fba542b6764b3bc357b9dc4063d522960790a374858a97",
+  "gateway/run_turn.py": "0a7ae66ddad18ed4bd45651b389a9247ff587a4aa3d70d6625fc4ce31d156b75",
+  "hermes_cli/plugins.py": "f5a1c27a22025984bbf956b58154ce23914592307bd945d7a1c0167cc443d771",
+  "hermes_cli/plugins_discovery.py": "8267c86ea941ebb1fc67702f76c4c8c371cb24c41704b442c102931d9f7be3e1",
+  "hermes_cli/plugins_loader.py": "0f2f2d5dd18e67cf841a5226f2cbc4464ae5ee59de7f4eb96e4b84e183163495",
+  "hermes_cli/version_info.py": "2a422bbd2b32691d871b4fe550cd687be0bbb49989a76fedda8c00432d4944a9",
+  "plugins/platforms/telegram/adapter.py": "cafc81fd1aa2411acb84824e707f7095653e674ab9e6c0e071f1c3a71f2132c2",
+  "plugins/platforms/telegram/telegram_context.py": "9fae1f0c84d4895c2ee630c82ac30febfc1ec596503193f3779d6cb4ed5972ea",
+  "plugins/platforms/telegram/telegram_entities.py": "5693326e8ccd0db9918790df008ad02bdafefb6adf249e688efd10178f04aa2b",
+  "plugins/platforms/telegram/telegram_held_inbound.py": "2977add624c00606455f36e4eeacf322dd11a12c248a4022fe0f55c7df76c8b5",
+  "plugins/platforms/telegram/update_admission.py": "ebb805a38ea2fc5f1c252f5e936db5f1badd2ec2dc4ab6145255d86343a1e002"
+ },
+ "hermes_commit": "d923a5eb487a17c0a68801bba9ef0f56c81040a8",
+ "packages": {
+  "python-telegram-bot": "22.8"
+ }
+}

@@ -1,0 +1,6 @@
+name: telegram-edit-replacement
+version: "1.0.0"
+description: Treat genuine Telegram message edits as replacements, not repeated requests.
+author: christianburrell
+requires_hermes: ">=0.22.2"
+provides_hooks: []
